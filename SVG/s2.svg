@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="279.524" height="248.23" viewBox="0 0 279.524 248.23">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.399" x2="1.096" y2="1.405" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#98b1f5" stop-opacity="0.11"/>
+      <stop offset="1" stop-color="#eaa0df" stop-opacity="0.596"/>
+    </linearGradient>
+    <filter id="Path_35" x="0" y="0" width="279.524" height="240.855" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="20.5" result="blur"/>
+      <feFlood flood-color="#3900ff" flood-opacity="0.333"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_368" data-name="Group 368" transform="translate(-901.911 -1098.77)">
+    <text id="Digital_technologies_in_economics_and_management" data-name="Digital technologies in economics and management" transform="translate(929 1299)" fill="#262525" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="30.344" y="15">Digital technologies in </tspan><tspan x="6.574" y="34">economics and management</tspan></text>
+    <g transform="matrix(1, 0, 0, 1, 901.91, 1098.77)" filter="url(#Path_35)">
+      <path id="Path_35-2" data-name="Path 35" d="M945.992-35.59C901.857-27.13,878.7,62.1,904.5,77.6s134.331-22.892,144.7-51.19S990.128-44.051,945.992-35.59Z" transform="translate(-837.22 94.19)" opacity="0.996" fill="url(#linear-gradient)"/>
+    </g>
+    <g id="_017-interaction" data-name="017-interaction" transform="translate(995 1183)">
+      <path id="Path_254" data-name="Path 254" d="M18,16a7,7,0,1,0-7-7,7,7,0,0,0,7,7ZM18,4a5,5,0,1,1-5,5,5,5,0,0,1,5-5Z" fill="#fff"/>
+      <path id="Path_255" data-name="Path 255" d="M10.314,13.747l-.759.433A9.02,9.02,0,0,0,5,22v6a3,3,0,0,0,3,3H28a3,3,0,0,0,3-3V22a9.02,9.02,0,0,0-4.555-7.82l-.759-.433-.531.7a8.973,8.973,0,0,1-14.31,0ZM18,20a10.9,10.9,0,0,0,8.152-3.629A7.015,7.015,0,0,1,29,22v6a1,1,0,0,1-1,1H8a1,1,0,0,1-1-1V22a7.015,7.015,0,0,1,2.848-5.629A10.9,10.9,0,0,0,18,20Z" fill="#fff"/>
+      <path id="Path_256" data-name="Path 256" d="M30,55a7.008,7.008,0,0,0,7,7H52a7.008,7.008,0,0,0,7-7V40a7.008,7.008,0,0,0-7-7H37a7.008,7.008,0,0,0-7,7Zm27,0a5.006,5.006,0,0,1-5,5H37a5.006,5.006,0,0,1-5-5V43H57ZM32,40a5.006,5.006,0,0,1,5-5H52a5.006,5.006,0,0,1,5,5v1H32Z" fill="#fff"/>
+      <path id="Path_257" data-name="Path 257" d="M36.71,37.29a1,1,0,1,0,0,1.42,1.032,1.032,0,0,0,.21-.33,1.034,1.034,0,0,0-.21-1.09Z" fill="#fff"/>
+      <path id="Path_258" data-name="Path 258" d="M39.8,37.02a.636.636,0,0,0-.18.06.782.782,0,0,0-.181.09,1.7,1.7,0,0,0-.149.12,1.014,1.014,0,0,0,0,1.42l.149.12a.782.782,0,0,0,.181.09.636.636,0,0,0,.18.06A1.487,1.487,0,0,0,40,39a1,1,0,0,0,.71-1.71,1.038,1.038,0,0,0-.91-.27Z" fill="#fff"/>
+      <path id="Path_259" data-name="Path 259" d="M43.62,37.08a1.032,1.032,0,0,0-.33.21,1.014,1.014,0,0,0,0,1.42,1.032,1.032,0,0,0,.33.21,1,1,0,1,0,0-1.84Z" fill="#fff"/>
+      <path id="Path_260" data-name="Path 260" d="M45.367,26.87,49,30l3.13-3.633L51.917,23.5,49.6,26.183A19.021,19.021,0,0,0,31,11v2A17.025,17.025,0,0,1,47.529,26.046L45.154,24Z" fill="#fff"/>
+      <path id="Path_261" data-name="Path 261" d="M12.633,37.13,9,34,5.87,37.633,6.083,40.5,8.4,37.817A19.021,19.021,0,0,0,27,53V51A17.025,17.025,0,0,1,10.471,37.954L12.846,40Z" fill="#fff"/>
+    </g>
+  </g>
+</svg>

@@ -4,9 +4,10 @@ body {
   	margin: 0;
 }
 header{
-	background-image: url("1.svg");
+	background-image: url("SVG/back.svg");
 	background-repeat: no-repeat;
 	background-position: right top;
+	
 }
 h1{
 	font-size: 50px;
@@ -40,6 +41,9 @@ footer{
   	padding: 10px 18px 0 19px;
   	margin: 0 15px 10px 0; 
 }
+.up_button:hover{
+	box-shadow: 0 4px 10px 0 rgba(94, 168, 232, 0.42);
+}
 /*Navbar======================================================================================================================================================*/
 .nav {
   	list-style-type: none;
@@ -51,12 +55,22 @@ footer{
 .nav li{
 	float: left;
 }
+.nav .aa{
+	display: block;
+  	color: #262525;
+  	text-align: center;
+  	text-decoration: none;
+  	padding: 50px 60px 0 0;
+}
 .nav a {
   	display: block;
   	color: #262525;
   	text-align: center;
   	text-decoration: none;
-  	padding: 50px 60px 0 0;
+  	padding: 50px 50px 0 0;
+}
+.nav a:hover{
+	color:#5EA8E8;
 }
 .nav_right{
 	float: right;
@@ -69,6 +83,15 @@ footer{
 }
 .nav .nav_font{
 	color: #5EA8E8;
+	font-weight: bold;
+	font-family: "Arial", Helvetica, sans-serif;
+}
+.nav .registration:hover{
+	border-radius: 30px;
+	padding: 10.5px 33.65px 10.5px 33.65px;
+	color: #FFFFFF;
+	background-color: #5EA8E8; 
+  	text-decoration: none;
 	font-weight: bold;
 	font-family: "Arial", Helvetica, sans-serif;
 }
@@ -87,6 +110,9 @@ footer{
   	text-decoration: none;
 	font-weight: bold;
 	font-family: "Arial", Helvetica, sans-serif;
+}
+.registration1:hover{
+	box-shadow: 0 4px 10px 0 rgba(94, 168, 232, 0.42);
 }
 .when{
 	margin-top: 174px; 
@@ -124,7 +150,7 @@ footer{
 	margin-top: 224px;
 }
 .rules{
-	background-image: url("3.svg");
+	background-image: url("SVG/back2.svg");
 	background-repeat: no-repeat;
 	background-position: left top;
 }
@@ -179,6 +205,9 @@ footer{
 	font-size: 16px;
 	font-weight: bold;
 }
+.reg_but:hover{
+	box-shadow: 0 4px 10px 0 rgba(94, 168, 232, 0.42);
+}
 .m{
 	max-width: 450px;
 }
@@ -209,6 +238,7 @@ footer{
 	margin-top: 41px;
 }
 /* End Footer====================================================================================================================================================*/
+
 
 
 
