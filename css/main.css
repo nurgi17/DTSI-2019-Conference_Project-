@@ -4,10 +4,9 @@ body {
   	margin: 0;
 }
 header{
-	background-image: url("SVG/back.svg");
+	background-image: url("../SVG/back.svg");
 	background-repeat: no-repeat;
-	background-position: right top;
-	
+	background-position: right top;	
 }
 h1{
 	font-size: 50px;
@@ -76,7 +75,7 @@ footer{
 	float: right;
 }
 .nav .registration{
-	border-radius: 30px;
+	border-radius: 5px;
 	border: 2px solid #5EA8E8;
 	padding: 10.5px 33.65px 10.5px 33.65px;
 	margin-top: 38.5px; 
@@ -87,7 +86,7 @@ footer{
 	font-family: "Arial", Helvetica, sans-serif;
 }
 .nav .registration:hover{
-	border-radius: 30px;
+	border-radius: 5px;
 	padding: 10.5px 33.65px 10.5px 33.65px;
 	color: #FFFFFF;
 	background-color: #5EA8E8; 
@@ -103,7 +102,7 @@ footer{
 	margin-top: 174px; 
 }
 .registration1{
-	border-radius: 30px;
+	border-radius: 5px;
 	padding: 14px 51px;
 	color: #FFFFFF;
 	background-color: #5EA8E8; 
@@ -150,7 +149,7 @@ footer{
 	margin-top: 224px;
 }
 .rules{
-	background-image: url("SVG/back2.svg");
+	background-image: url("../SVG/back2.svg");
 	background-repeat: no-repeat;
 	background-position: left top;
 }
@@ -177,6 +176,23 @@ footer{
 .rules_info2{
 	margin-left: 699px;
 }
+.registration2{
+	border-radius: 5px;
+	border: 2px solid #5EA8E8;
+	padding:  12.5px 143px;
+	color: #5EA8E8;
+	font-weight: bold;
+	 
+}
+.registration2:hover{
+	border-radius: 5px;
+	padding: 12.5px 143px;
+	color: #FFFFFF;
+	background-color: #5EA8E8; 
+  	text-decoration: none;
+	font-weight: bold;
+	font-family: "Arial", Helvetica, sans-serif;
+}
 /* Main Rules End====================================================================================================================================================*/
 
 /* Main Reginstration From====================================================================================================================================================*/
@@ -189,22 +205,32 @@ footer{
 }
 .reg_input{
 	border: 2px solid #D9D9D9;
-	border-radius: 30px;
-	width: 378px;
+	border-radius: 5px;
+	width: 216px;
 	height: 50px;
 	font-size: 16px;
 	padding-left: 25px;
 }
+.reg_text{
+	border: 2px solid #D9D9D9;
+	border-radius: 5px;
+	width: 465.5px;
+	height: 157px;
+	font-size: 16px;
+	padding-left: 25px;
+	resize: none;
+}
 .reg_but{
 	border: 1px solid #5EA8E8;
-	border-radius: 30px;
+	border-radius: 5px;
 	background-color: #5EA8E8;
 	color: #FFFFFF;
-	width: 403px;
-	height: 50px;
+	width: 495px;
+	height: 45px;
 	font-size: 16px;
 	font-weight: bold;
 }
+
 .reg_but:hover{
 	box-shadow: 0 4px 10px 0 rgba(94, 168, 232, 0.42);
 }
