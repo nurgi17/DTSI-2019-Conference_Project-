@@ -1,0 +1,313 @@
+body {
+	font-family: "Roboto";
+	font-weight: normal;
+  	margin: 0;
+}
+.container {
+  	width: 100%;
+  	max-width: 1184px;
+  	padding: 0 auto;
+  	margin: 0 auto;
+}
+.container1 {
+  	max-width: 800px;
+}
+footer{
+	margin-top: 437.77px;
+	margin-bottom: 138px;
+}
+a{
+	text-decoration: none;
+}
+h1{
+	font-size: 20px;
+}
+h2{
+	font-size: 30px;
+	font-family: "Roboto Condensed";
+}
+h3{
+	font-size: 18px;
+	color: #75AFE1;
+}
+hr{
+	border: none;
+	height: 1px;
+	background-color: #D9D9D9;
+}
+.up_button{
+	position: fixed;
+	right: 0;
+  	bottom: 0;
+  	background-color: #5EA8E8;
+  	border-radius: 30px;
+  	padding: 10px 18px 0 19px;
+  	margin: 0 15px 10px 0; 
+}
+.up_button:hover{
+	box-shadow: 0 4px 10px 0 rgba(94, 168, 232, 0.42);
+}
+/*Navbar======================================================================================================================================================*/
+.nav {
+  	list-style-type: none;
+  	margin: 0;
+  	padding: 0;
+  	overflow: hidden;
+  	width: 100%;
+  	border-bottom: 1px solid #D9D9D9;
+  	padding-bottom: 19.5px;
+  	margin-bottom: 58.5px;
+}
+.nav li{
+	float: left;
+}
+.nav .aa{
+	display: block;
+  	color: #262525;
+  	text-align: center;
+  	text-decoration: none;
+  	padding: 50px 60px 0 0;
+}
+.nav a {
+  	display: block;
+  	color: #262525;
+  	text-align: center;
+  	text-decoration: none;
+  	padding: 50px 50px 0 0;
+}
+.nav a:hover{
+	color:#5EA8E8;
+}
+.nav_right{
+	float: right;
+}
+.nav .registration{
+	border-radius: 5px;
+	border: 2px solid #5EA8E8;
+	padding: 10.5px 33.65px 10.5px 33.65px;
+	margin-top: 38.5px; 
+}
+.nav .nav_font{
+	color: #5EA8E8;
+	font-weight: bold;
+	font-family: "Arial", Helvetica, sans-serif;
+}
+.nav .registration:hover{
+	border-radius: 5px;
+	padding: 10.5px 33.65px 10.5px 33.65px;
+	color: #FFFFFF;
+	background-color: #5EA8E8; 
+  	text-decoration: none;
+	font-weight: bold;
+	font-family: "Arial", Helvetica, sans-serif;
+}
+/*Registration form ========================================================================================================================================*/
+.registration_form{
+	max-width: 425px;
+}
+.reg_input{
+	border: 2px solid #D9D9D9;
+	border-radius: 5px;
+	width: 100%;
+	height: 44px;
+	font-size: 16px;
+	padding-left: 10px;
+	display: inline-block;
+}
+.reg_input1{
+	border: 2px solid #D9D9D9;
+	border-radius: 5px;
+	width: 216px;
+	height: 50px;
+	font-size: 16px;
+	padding-left: 25px;
+}
+.reg_text{
+	border: 2px solid #D9D9D9;
+	border-radius: 5px;
+	width: 465.5px;
+	height: 157px;
+	font-size: 16px;
+	padding-top: 16px; 
+	padding-left: 25px;
+	resize: none;
+}
+.reg_but2{
+	border: 1px solid #5EA8E8;
+	border-radius: 5px;
+	background-color: #5EA8E8;
+	color: #FFFFFF;
+	width: 495px;
+	height: 45px;
+	font-size: 16px;
+	font-weight: bold;
+}
+
+.reg_but2:hover{
+	box-shadow: 0 4px 10px 0 rgba(94, 168, 232, 0.42);
+}
+
+.search{
+	float: right;
+	border: 1px solid #D9D9D9;
+	border-radius: 5px;
+	width: 304px;
+	height: 44px;
+	font-size: 16px;
+	padding-left: 10px;
+	display: inline-block;
+}
+.reg_select{
+	border: 2px solid #D9D9D9;
+	border-radius: 5px;
+	width: 440px;
+	height: 44px;
+	font-size: 16px;
+	display: inline-block;
+	background-color: #FFFFFF;
+}
+.bottom_50{
+	margin-bottom: 50px;
+}
+.reg_but{
+	width: 0.1px;
+    height: 0.1px;
+    opacity: 0;
+}
+.reg_but + label {
+    width: 436px;
+    height:44px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #5EA8E8;
+    line-height: 2.3em;
+    text-align: center;
+    background-color: #FFFFFF;
+    display: inline-block;
+    border-radius: 5px;
+	border: 1px solid #5EA8E8;
+}
+.reg_but + label:hover {
+    background-color: #5EA8E8;
+    cursor:pointer;
+    color: #FFFFFF;
+    font-weight: bold;
+}
+.reg_but1{
+	border: 1px solid #5EA8E8;
+	border-radius: 5px;
+	background-color: #5EA8E8;
+	color: #FFFFFF;
+	width: 438px;
+	height: 45px;
+	font-size: 16px;
+	font-weight: bold;
+}
+
+.reg_but1:hover{
+	box-shadow: 0 4px 10px 0 rgba(94, 168, 232, 0.42);
+}
+/* Short Info ====================================================================================================================================================*/
+.short_info{
+	float: right;
+	max-width: 503px;
+	max-height: 278px;
+	border: 1px solid #75AFE1;
+	width: 503px;
+	height: 278px;
+	border-radius: 5px;
+	padding: 10px 10px 10px 0px;
+}
+.short_info1{
+	float: right;
+	max-width: 304px;
+	max-height: 287px;
+	border: 1px solid #75AFE1;
+	width: 300px;
+	height: 287px;
+	border-radius: 5px;
+	padding: 0px 0px 0px 14px;
+}
+.short{
+	width: 100%;
+  	max-width: 417px;
+  	padding: 0 auto;
+  	margin: 0 auto;
+}
+.h1_text{
+	max-width: 250px; 
+}
+.when1{
+	max-width: 109px;
+}
+.when2{
+	max-width: 230px;
+	float: right;
+	margin-top: -16px; 
+}
+.grey{
+	color: #AFAFAF;
+}
+/* Email table ====================================================================================================================================================*/
+
+.email_table{
+	border-collapse: collapse; 
+}
+.email_table th,td{
+	border: 1px solid black;
+	padding: 5px 10.5px 5px 10.5px; 
+}
+
+/* Footer ====================================================================================================================================================*/
+.attention{
+	max-width: 496px;
+}
+.contact{
+	margin-top: -29px;
+	float: right;
+}
+.contact h4{
+	text-align: right;
+	font-size: 20px;
+	font-family: "Roboto Condensed";
+}
+.contact p{
+	text-align: right;
+	max-width: 219px;
+}
+.contact img{
+	float: right;
+	margin-top: 41px;
+}
+/* End Footer====================================================================================================================================================*/
+
+.hhh{
+	max-width: 285px;
+}
+.hhh a{
+	color: #75AFE1;
+}
+.hhh a:hover{
+	text-decoration: underline;
+}
+.blog_news{
+	max-width: 680px;
+}
+.blog_news img{
+	border-radius: 5px;
+	width: 213px; 
+	height:122px;
+	opacity: 0.8;
+	
+}
+.blog_news a:hover img{
+	opacity: 1;
+}
+.b_info{
+	margin-top: -20px; 
+	float: right;
+	max-width: 428.04px;
+	display: inline-block;
+}
+
+
