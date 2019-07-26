@@ -1,5 +1,5 @@
 # DTSI-2019-Conference_Project-
-Digital technologies in science and industry - 2019 design by </strong>Madina Saparbaeva (not responsive)</strong>
+Digital technologies in science and industry - 2019 design by <strong>Madina Saparbaeva (not responsive)</strong>
 
 <strong>Home page</strong>
 <p align="center"><img src="https://github.com/nurgi17/DTSI-2019-Conference_Project-/blob/master/h1.png"></p>
