@@ -1,6 +1,6 @@
 # DTSI-2019-Conference_Project-
-Digital technologies in science and industry - 2019 design by <strong>Madina Saparbaeva (not responsive)</strong>
-<strong>Frontend -> HTML&CSS</strong>
+Digital technologies in science and industry - 2019 design by <strong>Madina Saparbaeva (not responsive)</strong><br>
+<strong>Frontend -> HTML&CSS</strong><br>
 <strong>Backend -> PHP</strong>
 
 <strong>Home page</strong>
